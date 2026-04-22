@@ -1,0 +1,37 @@
+{
+  "CS001": {
+    "name": "Rahul Sharma",
+    "roll_number": "CS001",
+    "department": "Computer Science"
+  },
+  "CS002": {
+    "name": "Priya Patel",
+    "roll_number": "CS002",
+    "department": "Computer Science"
+  },
+  "ME001": {
+    "name": "Amit Kumar",
+    "roll_number": "ME001",
+    "department": "Mechanical Engineering"
+  },
+  "EC001": {
+    "name": "Sneha Gupta",
+    "roll_number": "EC001",
+    "department": "Electronics"
+  },
+  "sameer ": {
+    "name": "AShraf",
+    "roll_number": "sameer ",
+    "department": "Electronics"
+  },
+  "24014156-066": {
+    "name": "Sameer Ashraf",
+    "roll_number": "24014156-066",
+    "department": "Computer Science"
+  },
+  "SameerAshraf": {
+    "name": "25",
+    "roll_number": "SameerAshraf",
+    "department": "Computer Science"
+  }
+}
